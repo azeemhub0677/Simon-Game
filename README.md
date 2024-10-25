@@ -9,7 +9,7 @@
   <h1>Simon Game</h1>
   <p>
     A classic memory game built using HTML, CSS, and JavaScript. The objective of the Simon Game is to repeat a sequence of colors and sounds that become progressively more challenging with each round. 
-    <a href="https://your-live-demo-link.com" target="_blank">Click here for live demo</a>.
+    <a href="https://azeemhub0677.github.io/Simon-Game/" target="_blank">Click here for live demo</a>.
   </p>
 
   <h2>Features</h2>
